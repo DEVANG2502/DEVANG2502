@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DEVANG2502
-- 👀 I’m interested in building Apps 
+- 👀 
 - 🌱 I’m currently learning JavaScript
 - 💞️ i like to learn new things
 
